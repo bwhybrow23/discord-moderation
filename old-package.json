@@ -1,0 +1,63 @@
+{
+  "_from": "discord-moderation@^1.0.5",
+  "_id": "discord-moderation@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-uLVIBzVMer8lAqEz1DKyGmp10hTYVmce1FaGJX1H09T5yWmqUjV7cwdUtAraD5RWD+FtlTNLBbF7Ot2cfc23Ng==",
+  "_location": "/discord-moderation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "discord-moderation@^1.0.5",
+    "name": "discord-moderation",
+    "escapedName": "discord-moderation",
+    "rawSpec": "^1.0.5",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discord-moderation/-/discord-moderation-1.0.5.tgz",
+  "_shasum": "29b8d5026663711dd13637dd250ebc02a40e6cbe",
+  "_spec": "discord-moderation@^1.0.5",
+  "_where": "C:\\Users\\stent\\Google Drive\\Coding\\1. Node\\2. Public StenBot\\StenBot",
+  "author": {
+    "name": "Rakox"
+  },
+  "bugs": {
+    "url": "https://github.com/MRakox/discord-moderation/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "merge-options": "^2.0.0"
+  },
+  "deprecated": false,
+  "description": "A complete framework to facilitate the creation of cases using discord.js",
+  "homepage": "https://github.com/MRakox/discord-moderation",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "framework",
+    "bot",
+    "case",
+    "cases",
+    "tools",
+    "punishment",
+    "punishments",
+    "sanction",
+    "sanctions",
+    "discord-moderation",
+    "discord moderation",
+    "moderation",
+    "moderator"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "discord-moderation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRakox/discord-moderation.git"
+  },
+  "version": "1.0.5"
+}
